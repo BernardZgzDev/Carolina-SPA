@@ -194,45 +194,43 @@ body {
  }
 
  @media (min-width: 992px) {
-      .citas {
-          background-size: cover;
-      }
+     .citas {
+         background-size: cover;
+     }
  }
  .citas h3 {
-      font-size: 3.5rem;
-      font-family: 'Lato', sans-serif;
- }
- .citas p {
-      font-size: 1.2rem;
-      line-height: 2.6rem;
+     font-size: 3.5rem;
+     font-family: 'Lato', sans-serif;
+ } .citas p {
+     font-size: 1.2rem;
+     line-height: 2.6rem;
  }
 .btn-primary {
-      background-color: #8ed3cc;
-      border: 0;
-      padding: 1rem 5rem;
-      border-radius: 0;
-      font-family: 'Lato', sans-serif;
-      font-size: 1.2rem;
- }
- .btn-primary:hover {
-    background-color: #69aca5;
+     background-color: #8ed3cc;
+     border: 0;
+     padding: 1rem 5rem;
+     border-radius: 0;
+     font-family: 'Lato', sans-serif;
+     font-size: 1.2rem;
+ } .bt n-primary:hover {
+     background-color: #69aca5;
  }
  /* footer */
  .copyright {
-      color:#979797;
-      font-size: .8rem;
+     color:#979797;
+     font-size: .8rem;
  }
 
  /** Hero **/
  .hero {
-      position: relative;
+     position: relative;
  }
  .hero h2 {
-      position: absolute;
-      bottom: 2rem;
-      right: 0;
-      background-color: #8ed3cc;
-      font-family: 'Raleway', sans-serif;
+     position: absolute;
+     bottom: 2rem;
+     right: 0;
+     background-color: #8ed3cc;
+     font-family: 'Raleway', sans-serif;
      font-weight: 900;
      color: #ffffff;
      font-size: 2.8rem;
@@ -247,7 +245,7 @@ body {
 
 aside {
      background-color: #8ed3cc;
-     color: #ffffff;
+     color: #ffffff;     
 }
 
 /** Accordion / Servicios **/
